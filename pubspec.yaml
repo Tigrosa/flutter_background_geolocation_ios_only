@@ -13,7 +13,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.transistorsoft.flutter.backgroundgeolocation
+#        package: com.transistorsoft.flutter.backgroundgeolocation
         pluginClass: FLTBackgroundGeolocationPlugin
       ios:
         pluginClass: TSBackgroundGeolocationPlugin
